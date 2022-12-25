@@ -9,6 +9,5 @@ Setting up sending logs (to, from) in the SendLogs.cs file
 Supported browsers:
 Chromium(maybe this list will be replenished over time)
 ------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/112510447/209464189-f68650c1-d981-41fa-9cdb-5368120703f0.png)
 ![image](https://user-images.githubusercontent.com/112510447/209464192-12ae4dab-66fc-46d5-b2e9-9e8cab25b7dd.png)
 ![image](https://user-images.githubusercontent.com/112510447/209464194-7682515f-b4f4-4bd0-bf75-99d89e4ba1e4.png)
