@@ -1,0 +1,12 @@
+C:\Users\79180\source\repos\Sapphire\bin\x64\Release\Sapphire.exe.config
+C:\Users\79180\source\repos\Sapphire\bin\x64\Release\Sapphire.exe
+C:\Users\79180\source\repos\Sapphire\bin\x64\Release\Sapphire.pdb
+C:\Users\79180\source\repos\Sapphire\bin\x64\Release\DotNetZip.dll
+C:\Users\79180\source\repos\Sapphire\bin\x64\Release\DotNetZip.pdb
+C:\Users\79180\source\repos\Sapphire\bin\x64\Release\DotNetZip.xml
+C:\Users\79180\source\repos\Sapphire\obj\x64\Release\Sapphire.csproj.AssemblyReference.cache
+C:\Users\79180\source\repos\Sapphire\obj\x64\Release\Sapphire.csproj.SuggestedBindingRedirects.cache
+C:\Users\79180\source\repos\Sapphire\obj\x64\Release\Sapphire.csproj.CoreCompileInputs.cache
+C:\Users\79180\source\repos\Sapphire\obj\x64\Release\Sapphire.csproj.CopyComplete
+C:\Users\79180\source\repos\Sapphire\obj\x64\Release\Sapphire.exe
+C:\Users\79180\source\repos\Sapphire\obj\x64\Release\Sapphire.pdb
