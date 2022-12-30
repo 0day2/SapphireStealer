@@ -1,6 +1,6 @@
 # SapphireStealer
 ------------------------------------------------------------------------------------------------------------
-A simple stiller with sending logs to your EMAIL, in case of inactivity, write to me in Discord- R3VENGE#1539
+A simple stiller with sending logs to your EMAIL, in case of inactivity, write to me in Discord- R3VENGE#1539 or Telegram- https://t.me/hvcd222
 ------------------------------------------------------------------------------------------------------------
 It is written entirely in C# using DotNetZip
 In case of questions in terms of setting up the stealer, comments are attached in the source code.
